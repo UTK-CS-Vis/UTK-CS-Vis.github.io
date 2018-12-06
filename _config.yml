@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: UT-Knoxville Computer Science Visualization Course
+title: COSC 494 / 557 - Visualization
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The goal of this course is to develop an understanding of the principles, methods, and techniques for designing effective data visualizations. The course will span a wide range of topics related to interactive data visualization.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -26,9 +24,21 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-feed
+  - jekyll-redirect-from
+
+# Theme settings
+show_downloads: false
+
+# Custom variables
+semester: Spring 2019
+instructors: Chad Steed & John Goodall
+hours: Use Slack to setup an appointment.
+times: Tu/Th 3:40 – 4:55 pm
+location: Min Kao 405
+slack: UTK-COSC557
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
