@@ -28,12 +28,14 @@ Students from a variety of disciplines are invited to take the class, but some p
 
 ### Textbooks
 
-We will be reading recent research papers about the different course topics. We will assign these readings as we progress through the semester.  We will also be using the following book in the course: Interactive Data Visualization, 2nd Edition, by Ward, Grinstein, and Keim, CRC, 2015 (http://www.idvbook.com/).
+We will be reading recent research papers about the different course topics. We will assign these readings as we progress through the semester.  We will also be using the following book in the course:
+
+* [Interactive Data Visualization: An Introduction to Designing with D3]((http://alignedleft.com/work/d3-book-2e)), 2nd Edition, by Scott Murray, O’Reilly, 2017.
 
 Also, highly recommended are:
 
 * [Envisioning Information]((https://www.edwardtufte.com/tufte/books_ei)) by Edward Tufte, Graphics Press, 1990.
-* [Interactive Data Visualization: An Introduction to Designing with D3]((http://alignedleft.com/work/d3-book-2e)), 2nd Edition, by Scott Murray, O’Reilly, 2017.
+* [Interactive Data Visualization](http://www.idvbook.com/) by Ward, Grinstein, and Keim, CRC, 2nd Edition, 2015.
 
 
 <a name="schedule"></a>
