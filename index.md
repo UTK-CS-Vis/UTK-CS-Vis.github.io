@@ -77,9 +77,10 @@ Also, highly recommended are:
 * Quizzes on Lectures & Readings 10%
 * [Visualization Critique](./assignments/critique.html) 5%
 * [Research Paper Presentation](./assignments/paper.html) 10%
-* [Assignment 1: Visualization design](./assignments/a1.html) 10%
-* [Assignment 2: Visualization tools](./assignments/a2.html) 10%
-* [Assignment 3: Visualization implementation](./assignments/a3.html) 10%
+* [Assignment 1: Exploratory Data Analysis](./assignments/a1.html) 6%
+* [Assignment 2: Data Visualization Design](./assignments/a2.html) 8%
+* [Assignment 3: Basic Data Visualization Development](./assignments/a3.html) 8%
+* [Assignment 4: Advanced Data Visualization Development](./assignments/a4.html) 8%
 * [Group Project](./assignments/project.html) 40%
 
 Your assignments should consist of your own original work.  Building on the work of others (e.g., including 3rd party libraries, public source code examples, and design ideas) is acceptable and in most instances encouraged.  Failure to cite such sources will result in score deductions proportional to the severity of the oversight.
