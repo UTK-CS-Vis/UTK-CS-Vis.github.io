@@ -17,6 +17,7 @@ If students want to choose a different visualization, please confirm that it is 
 
 * [The New York Times](https://www.nytimes.com/)
 * [The Washington Post](https://www.washingtonpost.com/)
+* [FiveThirtyEight](https://fivethirtyeight.com/)
 
 #### Visualization Researchers
 
