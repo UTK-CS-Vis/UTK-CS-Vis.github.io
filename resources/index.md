@@ -8,7 +8,9 @@ layout: default
 
 ### NOAA HURDAT2 Dataset Subset (2004 to 2017)
 
-The National Oceanic and Atmospheric Administration (NOAA) National Hurricane Center publishes the Atlantic hurricane database, also known as HURDAT2.  This dataset has a comma-delimited, text format with six-hourly information on the location, maximum winds, central pressure, and (beginning in 2004) size of all known tropical cyclones and subtropical cyclones.  We have created a subset of the HURDAT2 dataset with records from 2004 through 2017.  The subset file differs slightly from the NHC file format to make it easier to read as a standard comma-separated value (CSV) text file.  This file can be opened in Excel or other spreadsheet applications.  It can also be read by d3.js and p5.js built-in file I/O functions.  The first line of the file contains the names for each column.  The subset CSV file is available [here](./AtlanticHURDAT_2004_2017.csv)
+[AtlanticHURDAT_2004_2017.csv](./AtlanticHURDAT_2004_2017.csv)
+
+The National Oceanic and Atmospheric Administration (NOAA) National Hurricane Center publishes the Atlantic hurricane database, also known as HURDAT2.  This dataset has a comma-delimited, text format with six-hourly information on the location, maximum winds, central pressure, and (beginning in 2004) size of all known tropical cyclones and subtropical cyclones.  We have created a subset of the HURDAT2 dataset with records from 2004 through 2017.  The subset file differs slightly from the NHC file format to make it easier to read as a standard comma-separated value (CSV) text file.  This file can be opened in Excel or other spreadsheet applications.  It can also be read by d3.js and p5.js built-in file I/O functions.  The first line of the file contains the names for each column.  The subset CSV file is available [here](./AtlanticHURDAT_2004_2017.csv).
 
 The column names and descriptions are listed below:
 1. ID: Storm identifier
